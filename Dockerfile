@@ -10,5 +10,5 @@ COPY . .
 RUN npm run build
 
 # The production image
-FROM nginxinc/nginx-unprivileged:1.29.3 AS production
+FROM nginxinc/nginx-unprivileged:1.29.4 AS production
 COPY --from=builder /app/build/ /usr/share/nginx/html/

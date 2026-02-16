@@ -1,3 +1,5 @@
+## [0.1.43](https://github.com/disafronov/dummy-frontend/compare/v0.1.42...v0.1.43) (2026-02-16)
+
 ## [0.1.42](https://github.com/disafronov/dummy-frontend/compare/v0.1.41...v0.1.42) (2026-02-06)
 
 ## [0.1.41](https://github.com/disafronov/dummy-frontend/compare/v0.1.40...v0.1.41) (2026-01-23)

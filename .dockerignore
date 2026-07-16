@@ -5,4 +5,6 @@
 !/public
 !/src
 !/.eslintrc.json
+!/index.html
+!/vite.config.js
 !/package*.json

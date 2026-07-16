@@ -52,7 +52,3 @@ docker run -p 8080:8080 dummy-frontend
 
 The multi-stage Dockerfile builds the app with Node.js and serves the static
 files with [nginx-unprivileged](https://github.com/nginxinc/docker-nginx-unprivileged).
-
-## License
-
-[MIT](LICENSE)

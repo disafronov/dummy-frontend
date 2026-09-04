@@ -1,5 +1,5 @@
 # The builder image
-FROM node:26.5.0 AS builder
+FROM node:26.8.1 AS builder
 WORKDIR /app
 RUN --mount=type=bind,source=package.json,target=package.json \
     --mount=type=bind,source=package-lock.json,target=package-lock.json \

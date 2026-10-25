@@ -1,3 +1,9 @@
+## [1.0.1-rc.3](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.2...v1.0.1-rc.3) (2026-10-25)
+
+### Bug Fixes
+
+* **ci:** use GitHub Actions as the Browserslist committer ([6474295](https://github.com/disafronov/dummy-frontend/commit/64742950c5137dc5609ec84e6e24190c5e187a76))
+
 ## [1.0.1-rc.2](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.1...v1.0.1-rc.2) (2026-10-25)
 
 ## [1.0.1-rc.1](https://github.com/disafronov/dummy-frontend/compare/v1.0.0...v1.0.1-rc.1) (2026-07-17)

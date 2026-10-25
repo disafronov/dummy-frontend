@@ -1,3 +1,9 @@
+## [1.0.1-rc.4](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.3...v1.0.1-rc.4) (2026-10-25)
+
+### Bug Fixes
+
+* **ci:** attribute generated dependency updates to GitHub Actions ([219ce56](https://github.com/disafronov/dummy-frontend/commit/219ce5625f3ff43d66642a8ed38a4d6648596bb9))
+
 ## [1.0.1-rc.3](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.2...v1.0.1-rc.3) (2026-10-25)
 
 ### Bug Fixes

@@ -1,3 +1,9 @@
+## [1.0.1-rc.5](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.4...v1.0.1-rc.5) (2026-10-26)
+
+### Bug Fixes
+
+* align semantic-release policy and committer sign-off ([96b4a23](https://github.com/disafronov/dummy-frontend/commit/96b4a23cfb98e49f70f10568477ece93b9fb0bea))
+
 ## [1.0.1-rc.4](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.3...v1.0.1-rc.4) (2026-10-25)
 
 ### Bug Fixes

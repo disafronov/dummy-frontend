@@ -1,4 +1,10 @@
-{
+const { execFileSync } = require("node:child_process");
+
+const committer = execFileSync("git", ["var", "GIT_COMMITTER_IDENT"], {
+  encoding: "utf8"
+}).trim().replace(/>.*$/, ">");
+
+module.exports = {
   "branches": [
     "release",
     { "name": "main", "prerelease": "rc" }
@@ -8,11 +14,11 @@
       "preset": "conventionalcommits",
       "releaseRules": [
         { "breaking": true, "release": "major" },
+        { "type": "refactor", "release": "patch" },
         { "type": "feat", "release": "minor" },
         { "type": "fix", "release": "patch" },
         { "type": "perf", "release": "patch" },
         { "type": "revert", "release": "patch" },
-        { "type": "refactor", "release": "patch" },
         { "type": "docs", "release": false },
         { "type": "style", "release": false },
         { "type": "test", "release": false },
@@ -25,8 +31,8 @@
     ["@semantic-release/changelog", {}],
     ["@semantic-release/git", {
       "assets": ["CHANGELOG.md"],
-      "message": "chore(release): ${nextRelease.version}\n\n${nextRelease.notes}\n\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+      "message": "chore(release): ${nextRelease.version}\n\n${nextRelease.notes}\n\nSigned-off-by: " + committer
     }],
     ["@semantic-release/github", {}]
   ]
-}
+};

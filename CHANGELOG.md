@@ -1,3 +1,5 @@
+## [1.0.1-rc.6](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.5...v1.0.1-rc.6) (2026-10-27)
+
 ## [1.0.1-rc.5](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.4...v1.0.1-rc.5) (2026-10-26)
 
 ### Bug Fixes

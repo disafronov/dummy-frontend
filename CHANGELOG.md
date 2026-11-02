@@ -1,3 +1,18 @@
+## [1.0.1](https://github.com/disafronov/dummy-frontend/compare/v1.0.0...v1.0.1) (2026-11-02)
+
+### Bug Fixes
+
+* align semantic-release policy and committer sign-off ([96b4a23](https://github.com/disafronov/dummy-frontend/commit/96b4a23cfb98e49f70f10568477ece93b9fb0bea))
+* **ci:** attribute generated dependency updates to GitHub Actions ([219ce56](https://github.com/disafronov/dummy-frontend/commit/219ce5625f3ff43d66642a8ed38a4d6648596bb9))
+* **ci:** use GitHub Actions as the Browserslist committer ([6474295](https://github.com/disafronov/dummy-frontend/commit/64742950c5137dc5609ec84e6e24190c5e187a76))
+
+### Code Refactoring
+
+* deps ([bad4ed7](https://github.com/disafronov/dummy-frontend/commit/bad4ed7477d46e1fa6ee474307ec3ae8da16fc7c))
+* update Browserslist db ([fa66209](https://github.com/disafronov/dummy-frontend/commit/fa662098f21e7b2b48765ee8649d183d7c8f6ff7))
+* update Browserslist db ([ab7e1c3](https://github.com/disafronov/dummy-frontend/commit/ab7e1c3184bdf5030fa8f1d5bfd48e0dc4748f6b))
+* use default semantic-release configuration ([2855166](https://github.com/disafronov/dummy-frontend/commit/285516627cd3eecc84020f7c5aba6ebc5f41dcbe))
+
 ## [1.0.1-rc.6](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.5...v1.0.1-rc.6) (2026-10-27)
 
 ## [1.0.1-rc.5](https://github.com/disafronov/dummy-frontend/compare/v1.0.1-rc.4...v1.0.1-rc.5) (2026-10-26)

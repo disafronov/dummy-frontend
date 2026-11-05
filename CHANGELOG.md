@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/disafronov/dummy-frontend/compare/v1.0.2...v1.0.3) (2026-11-05)
+
+### Code Refactoring
+
+* update Browserslist db ([95c49c3](https://github.com/disafronov/dummy-frontend/commit/95c49c3a962a0307b2ec65d5aba42e63e11ef62e))
+
 ## [1.0.2](https://github.com/disafronov/dummy-frontend/compare/v1.0.1...v1.0.2) (2026-11-02)
 
 ### Code Refactoring

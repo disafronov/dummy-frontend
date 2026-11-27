@@ -1,3 +1,9 @@
+## [1.0.7](https://github.com/disafronov/dummy-frontend/compare/v1.0.6...v1.0.7) (2026-11-27)
+
+### Code Refactoring
+
+* deps ([454ea54](https://github.com/disafronov/dummy-frontend/commit/454ea544d53ec8424bec69f1d25c8c4450c2b606))
+
 ## [1.0.6](https://github.com/disafronov/dummy-frontend/compare/v1.0.5...v1.0.6) (2026-11-20)
 
 ### Code Refactoring
